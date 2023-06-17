@@ -7,4 +7,4 @@
 ## Data
 **Opensource tutorial data from PostgreSQL available here**
 
-**You can find all visualizations on** [Tableau] (https://public.tableau.com/app/profile/magda.merino)
+**You can find all visualizations on** [Tableau](https://public.tableau.com/app/profile/magda.merino)
